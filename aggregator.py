@@ -16,7 +16,7 @@ class CryptocurrencyNewsAggregator:
             print("Invalid news source.")
 
     def fetch_news_articles_from_api(self):
-        # Fetch news articles from the news API using the provided API key
+        # Fetch news articles from the news API using the provided API key:
         url = f"https://api.example.com/news?api_key={self.api_key}"
         response = requests.get(url)
         if response.status_code == 200:
