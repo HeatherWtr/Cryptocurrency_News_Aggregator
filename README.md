@@ -15,4 +15,15 @@ __2. Data Filtering:__
 __3. Presentation:__
 
  - The ```present_articles``` method presents the aggregated news articles in a readable format by iterating through each article and printing its title, source, published date, and content.
+
+__Usage:__
+
+- Following libraries are required to be installed before running the code.
+  ```
+  pip install requests
+  pip install beautifulsoup4
+  ```
+- To use this code, replace the ```api_key``` variable with your actual API key if you choose to fetch news articles from an API. Additionally, customize the web scraping logic in the ```fetch_news_articles_from_website``` method to extract relevant data from the website you want to scrape.
+
+
    
