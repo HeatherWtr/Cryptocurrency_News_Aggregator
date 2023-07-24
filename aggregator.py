@@ -25,7 +25,7 @@ class CryptocurrencyNewsAggregator:
             print("Error fetching news articles from the API.")
 
     def fetch_news_articles_from_website(self):
-        # Fetch news articles from the website using web scraping
+        # Fetch news articles from the website using web scraping.
         url = "https://www.example.com/news"
         response = requests.get(url)
         if response.status_code == 200:
