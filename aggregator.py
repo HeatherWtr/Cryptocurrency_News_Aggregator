@@ -57,7 +57,7 @@ class CryptocurrencyNewsAggregator:
 
 # Example usage:
 
-# Define API key
+# Define API key:
 api_key = "your_api_key"
 
 # Create an instance of CryptocurrencyNewsAggregator
