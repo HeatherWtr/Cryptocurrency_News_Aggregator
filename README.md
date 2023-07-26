@@ -16,7 +16,7 @@ __3. Presentation:__
 
  - The ```present_articles``` method presents the aggregated news articles in a readable format by iterating through each article and printing its title, source, published date, and content.
 
-__Usage:__
+__Code vUsage:__
 
 - Following libraries are required to be installed before running the code.
   ```
