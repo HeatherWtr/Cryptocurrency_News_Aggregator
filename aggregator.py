@@ -7,7 +7,7 @@ class CryptocurrencyNewsAggregator:
         self.articles = []
 
     def fetch_news_articles(self, source):
-        # Fetch news articles from the specified source using the API or web scraping
+        # Fetch news articles from the specified source using the API or web scraping:
         if source == "api":
             self.fetch_news_articles_from_api()
         elif source == "website":
