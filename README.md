@@ -1,6 +1,6 @@
 # Cryptocurrency News Aggregator
 
-That project collects and displays news articles and updates from various cryptocurrency-related sources.
+That project collects and displays news articles and updates from various cryptocurrency-related sources:
 
  - This script is implemented the following features...
 
