@@ -2,7 +2,7 @@
 
 That project collects and displays news articles and updates from various cryptocurrency-related sources:
 
- - This script is implemented the following features...
+ - This script is implemented the following features.
 
 __1. Data Retrieval:__
 
